@@ -1,2 +1,2 @@
 # morettiflix-gratis
-Miles de Cana;es Gratis con una interfaz bonita
+Miles de Canales Gratis con una interfaz bonita
